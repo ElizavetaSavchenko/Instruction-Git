@@ -1,3 +1,5 @@
+https://github.com/ElizavetaSavchenko/Instruction-Git/blob/main/Git.md
+
 # Инструкция по работе с GIT
 
 ## Что такое GIT
